@@ -4,13 +4,11 @@
     <title>Pertemuan 6</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="../css/bootstrap.min.css">
-    <link rel="stylesheet" href="../fontawesome/css/fontawesome.min.css">
-    <link rel="stylesheet" href="../fontawesome/css/solid.min.css">
-    <link rel="stylesheet" href="../fontawesome/css/brands.min.css">    
-  	<script src="../js/jquery.min.js"></script>
-  	<script src="../js/popper.min.js"></script>
-	<script src="../js/bootstrap.min.js"></script>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
   	<style type="text/css">
   		.warna_dasar {
 			background-color: #FCF;
@@ -29,7 +27,7 @@
 
 <div class="container">
     <div class="jumbotron warna_dasar">
-    	<h1>DOTA 2 <span class="fas fa-candy-cane"></span></h1> 
+    	<h1>DOTA 2 <span class="fa fa-apple"></span></h1> 
     	<p>Tim DotA 2 Ini Siap Harumkan Indonesia di Laga Dunia</p> 
   	</div>
     <div class="row">
