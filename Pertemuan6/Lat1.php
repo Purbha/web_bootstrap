@@ -104,7 +104,7 @@
         
         <div class="col-md-3">
             <button type="button" class="btn btn-info atur_tombol">
-            	<span class="fas fa-search"></span> Search
+            	<span class="fa fa-search"></span> Search
             </button>
             <br><br>
             <ul class="list-group">

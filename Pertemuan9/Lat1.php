@@ -16,8 +16,8 @@
 </head>
 <body>
 <div class="jumbotron text-center">
-	<h1>DOTA 2 <i class="fab fa-napster"></i></h1> 
-  	<p>Jalan Tak Mudah ke The International 2019, Ajang Akbar Dota 2</p>
+	<h1>DOTA 2 <i class="fa fa-napster"></i></h1> 
+  	<p>Turnamen Dunia Dota 2 Terancam Gagal Digelar, Kenapa?</p>
     <form class="form-inline justify-content-center">
     	<input type="email" class="form-control" size="50" placeholder="Masukan Email" required>
         <button type="button" class="btn btn-info">Subscribe Berita</button>
@@ -39,6 +39,68 @@
     	</li>
   	</ul>
 </nav>
-
+<div class="container">
+	<h2>Button Group</h2>
+    <p>
+	    Bootstrap allows you to group a series of buttons together (on a single line) in a button group.
+	    The "btn-group" class creates a button group.
+        Use a "div" element with class "btn-group" to create a button group.
+    </p>
+    <div class="btn-group">
+        <button type="button" class="btn btn-primary">Apple</button>
+        <button type="button" class="btn btn-primary">Samsung</button>
+        <button type="button" class="btn btn-primary">Sony</button>
+    </div>
+</div>
+<div class="container">
+    <h2>Button Groups - Set Sizes</h2>
+    <p>
+    	Add class <code>.btn-group-*</code> to size all buttons in a button group.
+    	Instead of applying button sizes to every button in a group, use class <code>.btn-group-lg|sm|xs</code>
+        to size all buttons in the group.
+    </p>
+    <h3>Large Buttons:</h3>
+    <div class="btn-group btn-group-lg">
+        <button type="button" class="btn btn-primary">Apple</button>
+        <button type="button" class="btn btn-primary">Samsung</button>
+        <button type="button" class="btn btn-primary">Sony</button>
+    </div>
+    <h3>Default Buttons:</h3>
+    <div class="btn-group">
+        <button type="button" class="btn btn-primary">Apple</button>
+        <button type="button" class="btn btn-primary">Samsung</button>
+        <button type="button" class="btn btn-primary">Sony</button>
+    </div>
+    <h3>Small Buttons:</h3>
+    <div class="btn-group btn-group-sm">
+        <button type="button" class="btn btn-primary">Apple</button>
+        <button type="button" class="btn btn-primary">Samsung</button>
+        <button type="button" class="btn btn-primary">Sony</button>
+    </div>
+    <h3>Extra Small Buttons:</h3>
+    <div class="btn-group btn-group-xs">
+        <button type="button" class="btn btn-primary">Apple</button>
+        <button type="button" class="btn btn-primary">Samsung</button>
+        <button type="button" class="btn btn-primary">Sony</button>
+    </div>
+</div>
+<div class="container">
+    <h2>Vertical Button Group</h2>
+    <p>
+    	Bootstrap also supports vertical button groups.
+        Use the <code>.btn-group-vertical</code> class to create a vertical button group.
+    </p>
+    <div class="btn-group-vertical">
+        <button type="button" class="btn btn-primary">Apple</button>
+        <button type="button" class="btn btn-primary">Samsung</button>
+        <button type="button" class="btn btn-primary">Sony</button>
+    </div>
+</div>
+<div class="container-fluid bg-4 text-center">
+	<p>
+    	Bootstrap Theme Made By Teknik Informatika<br>
+        Email: <a href="mailto:irsyadpurbha@gmail.com">irsyadpurbha@gmail.com</a>
+    </p> 
+</div>
 </body>
 </html>

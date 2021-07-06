@@ -10,7 +10,7 @@
 <div class="container">
 	<div class="jumbotron">
     	<h1><abbr title="Defense of the Ancients">DOTA</abbr></h1>
-    	<p>Jakarta Jadi Saksi Pertarungan 8 Tim Dota 2 Internasional <i class="fas fa-camera"></i></p>
+    	<p>Jakarta Jadi Saksi Pertarungan 8 Tim Dota 2 Internasional <i class="fa fa-camera"></i></p>
   		<div class="dropdown">
   			<button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
     			Pilih Berita

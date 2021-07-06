@@ -8,7 +8,7 @@
 </head>
 <body>
 <div class="jumbotron text-center" style="margin-bottom:0">
-	<h1>The International 2019 <i class="fab fa-accessible-icon"></i></h1>
+	<h1>The International 2019 <i class="fa fa-universal-access"></i></h1>
   	<p>Ini Bukti Fans Dota 2 Antusias Banget Sambut The International 2019</p> 
 </div>
 <div class="container" style="margin-top:30px">
@@ -19,9 +19,9 @@
 			<img src="me.jpg" class="rounded" alt="Foto Saya" width="200" height="250">
       		<p>
             	Irsyad Purbha<br>
-                <i class="fab fa-google-plus"></i>
+                <i class="fa fa-google-plus"></i>
                 <a href="mailto:irsyadpurbha@gmail.com">irsyadpurbha@gmail.com</a><br>
-                <i class="fab fa-hacker-news"></i>
+                <i class="fa fa-hacker-news"></i>
                 <a href="mailto:irsyadpurbha@ymail.com">irsyadpurbha@ymail.com</a> 
             </p>
       		<h3>List Artikel</h3>

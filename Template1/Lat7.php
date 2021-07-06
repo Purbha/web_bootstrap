@@ -41,7 +41,7 @@
         OS X and Linux. Dota 2 dapat dimainkan secara eksklusif melalui distributor resmi valve, Steam.
 	</p>
     <a href="#" class="btn btn-info btn-lg">
-    	<span class="fas fa-search"></span> Search
+    	<span class="fa fa-search"></span> Search
   	</a>
 </div>
 <div class="container-fluid bg-3 text-center">

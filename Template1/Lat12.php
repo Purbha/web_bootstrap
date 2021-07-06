@@ -48,8 +48,8 @@
 	<div class="collapse navbar-collapse" id="collapsibleNavbar">
     	<ul class="navbar-nav ml-auto">
       		<li class="nav-item"><a class="nav-link" href="#">Menu 1</a></li>
-      		<li class="nav-item"><a class="nav-link" href="#">Menu 1</a></li>
-      		<li class="nav-item"><a class="nav-link" href="#">Menu 1</a></li>
+      		<li class="nav-item"><a class="nav-link" href="#">Menu 2</a></li>
+      		<li class="nav-item"><a class="nav-link" href="#">Menu 3</a></li>
     	</ul>
   	</div> 
 </nav>
@@ -68,7 +68,7 @@
         OS X and Linux. Dota 2 dapat dimainkan secara eksklusif melalui distributor resmi valve, Steam.
 	</p>
     <a href="#" class="btn btn-info btn-lg">
-    	<span class="fas fa-search"></span> Search
+    	<span class="fa fa-search"></span> Search
   	</a>
 </div>
 <div class="container-fluid bg-3 text-center">
