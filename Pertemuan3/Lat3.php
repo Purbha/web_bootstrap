@@ -7,6 +7,10 @@
     <?php include('../inc/inc.php'); ?>
 </head>
 <body>
+<!--
+	REFERENSI
+	https://www.w3schools.com/bootstrap4/bootstrap_tables.asp
+-->
 <div class="container">
     <h3>Contoh Tabel Sederhana</h3>
     <table class="table">

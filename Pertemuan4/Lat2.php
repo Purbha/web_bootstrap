@@ -7,6 +7,10 @@
     <?php include('../inc/inc.php'); ?>
 </head>
 <body>
+<!--
+	REFERENSI
+	https://www.w3schools.com/bootstrap4/bootstrap_jumbotron.asp
+-->
 <div class="jumbotron">
     <h1>DOTA 2</h1>      
     <p>Tunduk dari Malaysia, Indonesia Juara Dua Turnamen Dota.</p>
@@ -26,8 +30,8 @@
     			<dd>- <a href="#">Sub Menu 3</a></dd>
     			<dd>- <a href="#">Sub Menu 4</a></dd>
             </dl>    
-        </div>
-        
+            
+        </div>  
     	<div class="col-md-9">
             <div class="img-responsive">
     			<img src="dota.jpg" class="img-thumbnail" alt="Dota" width="400" height="350"> 

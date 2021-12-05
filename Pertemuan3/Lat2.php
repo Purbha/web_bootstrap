@@ -7,6 +7,10 @@
     <?php include('../inc/inc.php'); ?>
 </head>
 <body>
+<!--
+	REFERENSI
+	https://www.w3schools.com/bootstrap4/bootstrap_colors.asp
+-->
 <div class="container">
     <h1>Contextual Input</h1><h3>Contoh Keyboard Inputs</h3>
     <p>Silakan anda menekan <kbd>Ctrl + p</kbd> untuk mencetak dokumen ke printer.</p>

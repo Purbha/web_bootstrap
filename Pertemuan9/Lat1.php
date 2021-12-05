@@ -9,9 +9,21 @@
 		.jumbotron { 
   			background-color: #3C53DB;
 			color: #ffffff;
-			margin-bottom:0px;`
-			
+			margin-bottom:0px;`	
 		}
+		.container-fluid {
+    		padding: 60px 50px;
+  		}
+		/*
+		font: [ [ <'font-style'> || <'font-variant'> || <'font-weight'> ]?
+		<'font-size'> [ / <'line-height'> ]? <'font-family'> ] | caption | icon | menu |
+		message-box | small-caption | status-bar | inherit
+		*/
+		body {
+    		font: 400 15px Lato, sans-serif;
+    		line-height: 1.8;
+    		color: #818181;
+  		}
 	</style>
 </head>
 <body>
@@ -39,68 +51,44 @@
     	</li>
   	</ul>
 </nav>
-<div class="container">
-	<h2>Button Group</h2>
-    <p>
-	    Bootstrap allows you to group a series of buttons together (on a single line) in a button group.
-	    The "btn-group" class creates a button group.
-        Use a "div" element with class "btn-group" to create a button group.
-    </p>
-    <div class="btn-group">
-        <button type="button" class="btn btn-primary">Apple</button>
-        <button type="button" class="btn btn-primary">Samsung</button>
-        <button type="button" class="btn btn-primary">Sony</button>
-    </div>
+<div id="contact" class="container-fluid bg-grey">
+	<h2 class="text-center">Hubungi Kami</h2>
+  	<div class="row">
+    	<div class="col-sm-5">
+      		<p>Anda bisa menghubungi kami 24 jam setiap hari (kecuali hari libur)</p>
+      		<p><span class="fa fa-map-marker"></span> Jetiwaringin, Pondok Gede</p>
+      		<p><span class="fa fa-phone"></span> +62 81211683690</p>
+      		<p><span class="fa fa-envelope"></span> irsyadpurbha.fst@uia.ac.id</p>
+    	</div>
+    	<div class="col-sm-7">
+      		<div class="row">
+        		<div class="col-sm-6 form-group">
+          			<input class="form-control" id="name" name="name" placeholder="Name"
+                    	type="text" required>
+        		</div>
+        		<div class="col-sm-6 form-group">
+          			<input class="form-control" id="email" name="email" placeholder="Email"
+                    	type="email" required>
+        		</div>
+      		</div>
+      		<textarea class="form-control" id="comments" name="comments" placeholder="Comment"
+            	rows="5"></textarea>
+            <br>
+      		<div class="row">
+        		<div class="col-sm-12 form-group">
+                    <div class="btn-group pull-right">
+        				<button type="button" class="btn btn-primary">Kirim</button>
+        				<button type="button" class="btn btn-primary">Batal</button>
+        				<button type="button" class="btn btn-primary">Ubah</button>
+    				</div>
+        		</div>
+      		</div>
+    	</div>
+  	</div>
 </div>
-<div class="container">
-    <h2>Button Groups - Set Sizes</h2>
-    <p>
-    	Add class <code>.btn-group-*</code> to size all buttons in a button group.
-    	Instead of applying button sizes to every button in a group, use class <code>.btn-group-lg|sm|xs</code>
-        to size all buttons in the group.
-    </p>
-    <h3>Large Buttons:</h3>
-    <div class="btn-group btn-group-lg">
-        <button type="button" class="btn btn-primary">Apple</button>
-        <button type="button" class="btn btn-primary">Samsung</button>
-        <button type="button" class="btn btn-primary">Sony</button>
-    </div>
-    <h3>Default Buttons:</h3>
-    <div class="btn-group">
-        <button type="button" class="btn btn-primary">Apple</button>
-        <button type="button" class="btn btn-primary">Samsung</button>
-        <button type="button" class="btn btn-primary">Sony</button>
-    </div>
-    <h3>Small Buttons:</h3>
-    <div class="btn-group btn-group-sm">
-        <button type="button" class="btn btn-primary">Apple</button>
-        <button type="button" class="btn btn-primary">Samsung</button>
-        <button type="button" class="btn btn-primary">Sony</button>
-    </div>
-    <h3>Extra Small Buttons:</h3>
-    <div class="btn-group btn-group-xs">
-        <button type="button" class="btn btn-primary">Apple</button>
-        <button type="button" class="btn btn-primary">Samsung</button>
-        <button type="button" class="btn btn-primary">Sony</button>
-    </div>
-</div>
-<div class="container">
-    <h2>Vertical Button Group</h2>
-    <p>
-    	Bootstrap also supports vertical button groups.
-        Use the <code>.btn-group-vertical</code> class to create a vertical button group.
-    </p>
-    <div class="btn-group-vertical">
-        <button type="button" class="btn btn-primary">Apple</button>
-        <button type="button" class="btn btn-primary">Samsung</button>
-        <button type="button" class="btn btn-primary">Sony</button>
-    </div>
-</div>
-<div class="container-fluid bg-4 text-center">
-	<p>
-    	Bootstrap Theme Made By Teknik Informatika<br>
-        Email: <a href="mailto:irsyadpurbha@gmail.com">irsyadpurbha@gmail.com</a>
-    </p> 
+<div class="container text-center">
+	<h3><a href="#"><span class="fa fa-android"></span></a></h3>
+  	<p>Bootstrap Theme Made By <a href="#">irsyadpurbha.fst@uia.ac.id</a></p>
 </div>
 </body>
 </html>

@@ -7,6 +7,10 @@
     <?php include('../inc/inc.php'); ?>
 </head>
 <body>
+<!--
+	REFERENSI
+	https://www.w3schools.com/bootstrap4/bootstrap_tables.asp
+-->
 <div class="container">
     <table class="table table-bordered">
     <thead>
@@ -18,15 +22,11 @@
                 <h3>Side Menu</h3>    
                 <dl>
                     <dt>Menu 1</dt>
-                    <dd>- <a href="#">Sub Menu 1</a></dd>
-                    <dd>- <a href="#">Sub Menu 2</a></dd>
-                    <dd>- <a href="#">Sub Menu 3</a></dd>
-                    <dd>- <a href="#">Sub Menu 4</a></dd>
+                    <dd>- <a href="#">Sub Menu 1</a></dd><dd>- <a href="#">Sub Menu 2</a></dd>
+                    <dd>- <a href="#">Sub Menu 3</a></dd><dd>- <a href="#">Sub Menu 4</a></dd>
                     <dt>Menu 2</dt>
-                    <dd>- <a href="#">Sub Menu 1</a></dd>
-                    <dd>- <a href="#">Sub Menu 2</a></dd>
-                    <dd>- <a href="#">Sub Menu 3</a></dd>
-                    <dd>- <a href="#">Sub Menu 4</a></dd>
+                    <dd>- <a href="#">Sub Menu 1</a></dd><dd>- <a href="#">Sub Menu 2</a></dd>
+                    <dd>- <a href="#">Sub Menu 3</a></dd><dd>- <a href="#">Sub Menu 4</a></dd>
                 </dl>  
             </td>
             
@@ -51,10 +51,7 @@
         </tr>
         <tr class="table-danger">
         	<td colspan="2" class="text-center">
-            	<p>
-                	Design By Irsyad Purbha - 081211683690<br>
-                    Copyrights @2018 <a href="#">www.localhost.com</a> 
-            	</p>
+            	<p>Design By Irsyad Purbha - 081211683690<br>Copyrights @2018 <a href="#">www.localhost.com</a></p>
             </td>
         </tr>
     </tbody>

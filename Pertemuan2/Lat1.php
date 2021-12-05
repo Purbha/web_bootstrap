@@ -5,8 +5,11 @@
   	<meta charset="utf-8">
   	<meta name="viewport" content="width=device-width, initial-scale=1">
     <?php include('../inc/inc.php'); ?>
-</head>
 <body>
+<!--
+	REFERENSI
+	https://www.w3schools.com/bootstrap4/bootstrap_grid_basic.asp
+-->
 <div class="container-fluid">
 	<h1>Latihan 1</h1>
   	<p>Ubah ukuran jendela browser untuk melihat efeknya.</p>

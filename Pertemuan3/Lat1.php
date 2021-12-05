@@ -7,6 +7,10 @@
     <?php include('../inc/inc.php'); ?>
 </head>
 <body>
+<!--
+	REFERENSI
+	https://www.w3schools.com/bootstrap4/bootstrap_typography.asp
+-->
 <div class="container">
     <h1>Contoh <code>Description Lists</code></h1><h3>Daftar Menu Makanan</h3>    
     <dl>

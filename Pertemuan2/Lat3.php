@@ -8,6 +8,11 @@
   	<style type="text/css">.warna_dasar { background-color: #9FF; padding: 5px; } </style>
 </head>
 <body>
+<!--
+	REFERENSI
+	https://www.w3schools.com/bootstrap4/bootstrap_typography.asp
+-->
+
 <div class="container">
     <h1>Latihan 3 <small>Bootstrap 4 Text/Typography</small></h1>
     <p align="justify">Berikut ini contoh paragraf yang menggunakan blockquote.</p><hr>
