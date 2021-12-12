@@ -7,6 +7,10 @@
     <?php include('../inc/inc.php'); ?>
 </head>
 <body> 
+<!--
+	REFERENSI
+	https://www.w3schools.com/bootstrap4/bootstrap_cards.asp
+-->
 <div class="container">
 	<h2>Card Image</h2>
     <div class="row">

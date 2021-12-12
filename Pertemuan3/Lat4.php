@@ -5,6 +5,14 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <?php include('../inc/inc.php'); ?>
+    <style>
+	.kuningtua {
+		background-color:#B3B200;
+	}
+	#birutua {
+		background-color:#193AFF;
+	}
+	</style>
 </head>
 <body>
 <!--
@@ -27,7 +35,7 @@
                     <dt>Menu 2</dt>
                     <dd>- <a href="#">Sub Menu 1</a></dd><dd>- <a href="#">Sub Menu 2</a></dd>
                     <dd>- <a href="#">Sub Menu 3</a></dd><dd>- <a href="#">Sub Menu 4</a></dd>
-                </dl>  
+                </dl-->  
             </td>
             
             <td>
@@ -46,12 +54,13 @@
 					Sistem ranking berbasis musim ini akan mempersilahkan pemainnya mengejar
                     rangking yang selama periode enam bulan. Total ada tujuh rangking yang disediakan,
                     yakni Herald, Guardian, Crusader, Archon, Legend, Ancient, dan Divine.
-                </p>
+                </p-->
             </td>
         </tr>
         <tr class="table-danger">
         	<td colspan="2" class="text-center">
-            	<p>Design By Irsyad Purbha - 081211683690<br>Copyrights @2018 <a href="#">www.localhost.com</a></p>
+            	<p>Design By Irsyad Purbha - 081211683690<br>
+                Copyrights @2018 <a href="#">www.localhost.com</a></p-->
             </td>
         </tr>
     </tbody>

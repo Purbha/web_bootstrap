@@ -18,7 +18,7 @@
     <pre>
     	<strong>Jakarta</strong> - Valve resmi <span class="text-danger" style="font-weight:900">mengganti</span>
         sistem ranking yang ada dalam game Defense of the Ancients (DotA 2). Pergantian sistem ranking ini pun menuai
-        <span class="text-warning" style="font-weight:900">pro</span> dan 
+        <span class="text-warning" style="font-weight:900">pro</span> dan  
         <span class="text-warning" style="font-weight:900">kontra</span> di kalangan gamer-nya.
     </pre>
     

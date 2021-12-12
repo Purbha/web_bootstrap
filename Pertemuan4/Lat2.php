@@ -5,6 +5,12 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <?php include('../inc/inc.php'); ?>
+    <style>
+		.jumbotron {
+  			background-image: url("bg_header.jpg");
+  			background-size: cover;
+		}
+	</style>
 </head>
 <body>
 <!--
@@ -12,8 +18,8 @@
 	https://www.w3schools.com/bootstrap4/bootstrap_jumbotron.asp
 -->
 <div class="jumbotron">
-    <h1>DOTA 2</h1>      
-    <p>Tunduk dari Malaysia, Indonesia Juara Dua Turnamen Dota.</p>
+    <h1 class="text-white">DOTA 2</h1>      
+    <p class="text-white">Tunduk dari Malaysia, Indonesia Juara Dua Turnamen Dota.</p>
 </div>
 <div class="container">
   	<div class="row">
@@ -24,17 +30,17 @@
     			<dd>- <a href="#">Sub Menu 2</a></dd>
     			<dd>- <a href="#">Sub Menu 3</a></dd>
     			<dd>- <a href="#">Sub Menu 4</a></dd>
+                
     		<dt>Menu 2</dt>
     			<dd>- <a href="#">Sub Menu 1</a></dd>
     			<dd>- <a href="#">Sub Menu 2</a></dd>
     			<dd>- <a href="#">Sub Menu 3</a></dd>
     			<dd>- <a href="#">Sub Menu 4</a></dd>
-            </dl>    
-            
+            </dl>                
         </div>  
     	<div class="col-md-9">
             <div class="img-responsive">
-    			<img src="dota.jpg" class="img-thumbnail" alt="Dota" width="400" height="350"> 
+    			<img src="dota.jpg" class="img-thumbnail" alt="Dota" width="400"> 
 			</div>
             <p align="justify">
                 <kbd>Jakarta</kbd> - Setelah melewati serangkaian pertandingan sengit selama tiga hari,

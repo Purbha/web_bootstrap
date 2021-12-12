@@ -17,9 +17,12 @@
         how-do-i-get-rid-of-the-margin-on-the-bottom-of-my-jumbotron-in-bootstrap
     -->
     <div class="jumbotron" style="margin-bottom:0">
-        <h1>DOTA 2</h1><p>Tunduk dari Malaysia, Indonesia Juara Dua Turnamen Dota.</p>
+        <h1>DOTA 2</h1>
+        <p>Tunduk dari Malaysia, Indonesia Juara Dua Turnamen Dota.</p>
     </div>
+    
     <img src="dota.jpg" class="img-thumbnail" alt="Dota" width="600" height="550">
+    
     <p align="justify">
     	<kbd>Jakarta</kbd> - Setelah melewati serangkaian pertandingan sengit selama tiga hari,
         event Asia Pasifik (APAC) Predator League 2018 selesai sudah. Tim asal Malaysia,

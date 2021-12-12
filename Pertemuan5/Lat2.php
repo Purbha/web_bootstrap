@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <?php include('../inc/inc.php'); ?>
-  	<style type="text/css">
+  	<style>
   		.warna_dasar { background-color: #FCF; }
     	.atur_tombol { width: 100%; }
     </style>
@@ -56,7 +56,8 @@
                         Keunggulan Geek Fam atas BOOM.ID sudah terlihat sejak ronde pertama.
                     </p> 
                     <p align="justify">
-                        "Kami sangat bangga dan bersyukur bisa menggelar Asia Pacific Predator League 2018 denga sukses.
+                        "Kami sangat bangga dan bersyukur bisa menggelar Asia Pacific Predator League 2018
+                        dengan sukses.
                         Ini adalah turnamen eSports kelas dunia terbesar dari Acer di Jakarta," papar Andrew Hou.
                         Presiden Acer Pan Asia Pacific, <mark>Senin (22/1/2018)</mark>
                 	</p>

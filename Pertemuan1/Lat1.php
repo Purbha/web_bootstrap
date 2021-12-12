@@ -15,9 +15,9 @@
 	https://www.w3schools.com/bootstrap4/bootstrap_containers.asp
 -->
 <div class="container">
-	<h1>Latihan 1</h1>
-	<p>Halaman bootstrap pertama. Ini adalah contoh paragraf sederhana!</p>
-	<p>Selamat Datang <kbd>Irsyad Purbha</kbd></p>
+    <h1>Latihan 1</h1>
+    <p>Halaman bootstrap pertama. Ini adalah contoh paragraf sederhana!</p>
+    <p>Selamat Datang <kbd>Irsyad Purbha</kbd></p>
 </div>
 </body>
 </html>
