@@ -16,8 +16,8 @@
     <div class="row">
         <div class="col-sm-6">
             <p>Posisi Image Diatas</p>
-            <div class="card" style="width:400px">
-                <img class="card-img-top" src="gambar1.jpg" alt="Card image" style="width:100%">
+            <div class="card">
+                <img src="gambar1.jpg" class="card-img-top" alt="Card image" style="width:100%">
                 <div class="card-body">
                     <h4 class="card-title">Dota 2</h4>
                     <p class="card-text">Tunduk dari Malaysia, Indonesia Juara Dua Turnamen Dota</p>

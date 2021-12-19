@@ -93,7 +93,8 @@
                 </div>
 				<div class="card-body">
                     <p align="justify">
-                        "Kami sangat bangga dan bersyukur bisa menggelar Asia Pacific Predator League 2018 denga sukses.
+                        "Kami sangat bangga dan bersyukur bisa menggelar Asia Pacific Predator League 2018
+                        dengan sukses.
                         Ini adalah turnamen eSports kelas dunia terbesar dari Acer di Jakarta," papar Andrew Hou.
                     </p>
                 </div>
