@@ -28,7 +28,7 @@
 </head>
 <body>
 <div class="jumbotron text-center">
-	<h1>DOTA 2 <i class="fa fa-napster"></i></h1> 
+	<h1>DOTA 2 <i class="fa fa-audio-description"></i></h1> 
   	<p>Turnamen Dunia Dota 2 Terancam Gagal Digelar, Kenapa?</p>
     <form class="form-inline justify-content-center">
     	<input type="email" class="form-control" size="50" placeholder="Masukan Email" required>
@@ -51,7 +51,7 @@
     	</li>
   	</ul>
 </nav>
-<div id="contact" class="container-fluid bg-grey">
+<div id="contact" class="container-fluid">
 	<h2 class="text-center">Hubungi Kami</h2>
   	<div class="row">
     	<div class="col-sm-5">

@@ -109,7 +109,11 @@
             </button>
             <br><br>
             <ul class="list-group">
-            	<li class="list-group-item"><a href="#">Menu 1</a><span class="badge">(12)</span></li>
+            	<li class="list-group-item d-flex justify-content-between align-items-center">
+    				<a href="#">Menu 1</a>
+    				<span class="badge badge-primary badge-pill">12</span>
+  				</li>
+
              	<li class="list-group-item"><a href="#">Menu 2</a><span class="badge">(5)</span></li> 
             	<li class="list-group-item"><a href="#">Menu 3</a><span class="badge">(3)</span></li> 
             	<li class="list-group-item"><a href="#">Menu 4</a><span class="badge">(7)</span></li> 

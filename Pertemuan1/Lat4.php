@@ -1,12 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Latihan 2</title>
-	<?php include('../inc/inc.php'); ?>
+	<title>Latihan 4</title>
+    <?php include('../inc/inc.php'); ?>
 </head>
 <body>
-<div class="container-fluid">
-	<h1>Netflix Ungkap Teaser Dota: Dragon's Blood Book 2</h1>
+<div class="container p-5 my-5 bg-primary text-white">
+    <h1>Netflix Ungkap Teaser <abbr title="Defense of the Ancients">DoTA</abbr>: Dragon's Blood Book 2</h1>
+    <p>Panji Saputro - detikInet</p>
+</div>
+<div class="container">
   	<p>
     	<kbd>Jakarta</kbd> - Kabar gembira bagi penggemar game Multiplayer Online Battle Arena (MOBA),
         DOTA 2. Pasalnya, Netflix selaku penyedia layanan streaming online, merilis teaser terbaru dari
@@ -21,4 +24,4 @@
     </p>
 </div>
 </body>
-</html> 
+</html>

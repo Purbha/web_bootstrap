@@ -1,20 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Latihan 1</title>
+    <title>Latihan 5</title>
     <?php include('../inc/inc.php'); ?>
 </head>
 <body>
 <div class="container-fluid pt-2">
 	<div class="row">
     	<div class="col-sm-3">
-      		<h4>DOTA 2</h4>
+       		<h4>DOTA 2</h4>
       		<ul class="nav nav-pills flex-column">
             	<li class="nav-item">
-      				<a class="nav-link active" href="#">Berita</a>
+      				<a class="nav-link" href="#">Berita</a>
     			</li>
             	<li class="nav-item">
-      				<a class="nav-link" href="#">Jadwal</a>
+      				<a class="nav-link active" href="#">Jadwal</a>
     			</li>
             	<li class="nav-item">
       				<a class="nav-link" href="#">Tutorial</a>
@@ -26,12 +26,13 @@
       		<div class="input-group input-group-sm mt-3">
     			<span class="input-group-text">Search</span><input type="text" class="form-control">
   			</div>
-    	</div>
+  		</div>
     	<div class="col-sm-9">
-      		<h4><small>BERITA</small></h4>
+      		<h4><small>JADWAL</small></h4>
       		<hr>
-        </div>
- 	</div>
+		    <?php include('ContentJadwal.php'); ?>    
+     	</div>
+    </div>
 </div>
 <footer class="container-fluid p-5 mt-2 text-center bg-light">
 	<p>

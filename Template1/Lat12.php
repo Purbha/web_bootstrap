@@ -36,7 +36,11 @@
       	font-size: 12px;
       	letter-spacing: 5px;
   	}
-	.margin { margin-bottom: 45px; }
+	.margin_bawah { margin-bottom: 45px; }
+	.atur_tombol {
+		margin-top:20px;
+		background-color:#FF9193;
+	}
     </style>
 </head>
 <body>
@@ -59,7 +63,7 @@
 	<h3>Keep Calm And Play DOTA 2</h3>
 </div>
 <div class="container-fluid bg-2 text-center">
-	<h3 class="margin">Apa Itu DOTA 2?</h3>
+	<h3 class="margin_bawah">Apa Itu DOTA 2?</h3>
 	<p class="text-justify">
     	Dota 2 adalah sebuah permainan multiplayer online battle arena,
         merupakan sekuel dari Defense of the Ancients mod pada Warcraft 3 :
@@ -67,7 +71,7 @@
         terbit juli 2013 dota 2 dapat dimainkan secara gratis pada operation system Microsoft Windows,
         OS X and Linux. Dota 2 dapat dimainkan secara eksklusif melalui distributor resmi valve, Steam.
 	</p>
-    <a href="#" class="btn btn-info btn-lg">
+    <a href="#" class="btn btn-lg atur_tombol">
     	<span class="fa fa-search"></span> Search
   	</a>
 </div>

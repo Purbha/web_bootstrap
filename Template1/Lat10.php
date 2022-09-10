@@ -30,7 +30,7 @@
     	border-radius: 0px;
       	margin-bottom: 0px;
       	font-size: 12px;
-      	letter-spacing: 5px;
+      	letter-spacing: 5px;	
   	}
     </style>
 </head>

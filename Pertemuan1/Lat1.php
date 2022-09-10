@@ -1,23 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Pertemuan 1</title>
-  	<meta charset="utf-8">
-  	<meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-  	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-  	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
-  	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+	<title>Latihan 1</title>
+	<?php include('../inc/inc.php'); ?>
 </head>
 <body>
-<!--
-	REFERENSI
-	https://www.w3schools.com/bootstrap4/bootstrap_containers.asp
--->
 <div class="container">
-    <h1>Latihan 1</h1>
-    <p>Halaman bootstrap pertama. Ini adalah contoh paragraf sederhana!</p>
-    <p>Selamat Datang <kbd>Irsyad Purbha</kbd></p>
+	<h1>Netflix Ungkap Teaser Dota: Dragon's Blood Book 2</h1>
+  	<p>
+    	Jakarta - Kabar gembira bagi penggemar game Multiplayer Online Battle Arena (MOBA), DOTA 2.
+        Pasalnya, Netflix selaku penyedia layanan streaming online, merilis teaser terbaru dari
+        Dragon's BloodBook Two.
+    </p>
+  	<p>
+    	Kabar sebelumnya telah disampaikan, bahwa memang season kedua dari film ini, sedang dalam
+        pengerjaan. Hanya saja, pihaknya belum bisa memberikan informasi secara gamblang terkait
+        peluncuran resmi. Akan tetapi, melalui Youtube Channel Netflix Anime, telah mendarat dengan
+        mulus teaser Dota: Dragon's Blood Book Two, beserta waktu perilisan. Di mana ceritanya masih
+        berkutat dengan petualangan Davion dan kawan-kawan, dikutip detikINET, Rabu (27/10/2021).
+    </p>
 </div>
 </body>
 </html>
