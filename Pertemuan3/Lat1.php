@@ -10,11 +10,11 @@
     	<div class="col-sm-3">
        		<h4>DOTA 2</h4>
       		<ul class="nav nav-pills flex-column">
-            	<li class="nav-item">
-      				<a class="nav-link" href="#">Berita</a>
+				<li class="nav-item">
+        			<a class="nav-link" href="http://localhost/web_bootstrap/Pertemuan3/Lat1.php">Latihan 1</a>
     			</li>
-            	<li class="nav-item">
-      				<a class="nav-link active" href="#">Jadwal</a>
+    			<li class="nav-item">
+        			<a class="nav-link" href="http://localhost/web_bootstrap/Pertemuan3/Lat2.php">Latihan 2</a>
     			</li>
             	<li class="nav-item">
       				<a class="nav-link" href="#">Tutorial</a>
