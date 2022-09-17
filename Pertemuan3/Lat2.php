@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Latihan 1</title>
+    <title>Latihan 2</title>
     <?php include('../inc/inc.php'); ?>
 </head>
 <body>
-<div class="mb-4 p-5 text-white rounded" style="background:url('bg_header.jpg')">
+<div class="mb-2 p-5 text-white rounded" style="background:url('bg_header.jpg')">
     <h1>Dota 2 Forum Indonesia</h1>
     <p>Download Apps Detikcom Sekarang</p>
 </div>
